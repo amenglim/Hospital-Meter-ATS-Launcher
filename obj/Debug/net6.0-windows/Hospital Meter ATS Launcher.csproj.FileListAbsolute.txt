@@ -1,0 +1,44 @@
+C:\! Projects\Hospital Meter ATS\Hospital Meter ATS Launcher\bin\Debug\net6.0-windows\Hospital Meter ATS Launcher.exe
+C:\! Projects\Hospital Meter ATS\Hospital Meter ATS Launcher\bin\Debug\net6.0-windows\Hospital Meter ATS Launcher.deps.json
+C:\! Projects\Hospital Meter ATS\Hospital Meter ATS Launcher\bin\Debug\net6.0-windows\Hospital Meter ATS Launcher.runtimeconfig.json
+C:\! Projects\Hospital Meter ATS\Hospital Meter ATS Launcher\bin\Debug\net6.0-windows\Hospital Meter ATS Launcher.dll
+C:\! Projects\Hospital Meter ATS\Hospital Meter ATS Launcher\bin\Debug\net6.0-windows\Hospital Meter ATS Launcher.pdb
+C:\! Projects\Hospital Meter ATS\Hospital Meter ATS Launcher\obj\Debug\net6.0-windows\Hospital Meter ATS Launcher.csproj.AssemblyReference.cache
+C:\! Projects\Hospital Meter ATS\Hospital Meter ATS Launcher\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\! Projects\Hospital Meter ATS\Hospital Meter ATS Launcher\obj\Debug\net6.0-windows\App.g.cs
+C:\! Projects\Hospital Meter ATS\Hospital Meter ATS Launcher\obj\Debug\net6.0-windows\Hospital Meter ATS Launcher_Content.g.cs
+C:\! Projects\Hospital Meter ATS\Hospital Meter ATS Launcher\obj\Debug\net6.0-windows\Hospital Meter ATS Launcher_MarkupCompile.cache
+C:\! Projects\Hospital Meter ATS\Hospital Meter ATS Launcher\obj\Debug\net6.0-windows\Hospital Meter ATS Launcher_MarkupCompile.lref
+C:\! Projects\Hospital Meter ATS\Hospital Meter ATS Launcher\obj\Debug\net6.0-windows\MainWindow.baml
+C:\! Projects\Hospital Meter ATS\Hospital Meter ATS Launcher\obj\Debug\net6.0-windows\Hospital Meter ATS Launcher.g.resources
+C:\! Projects\Hospital Meter ATS\Hospital Meter ATS Launcher\obj\Debug\net6.0-windows\Hospital Meter ATS Launcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\! Projects\Hospital Meter ATS\Hospital Meter ATS Launcher\obj\Debug\net6.0-windows\Hospital Meter ATS Launcher.AssemblyInfoInputs.cache
+C:\! Projects\Hospital Meter ATS\Hospital Meter ATS Launcher\obj\Debug\net6.0-windows\Hospital Meter ATS Launcher.AssemblyInfo.cs
+C:\! Projects\Hospital Meter ATS\Hospital Meter ATS Launcher\obj\Debug\net6.0-windows\Hospital Meter ATS Launcher.csproj.CoreCompileInputs.cache
+C:\! Projects\Hospital Meter ATS\Hospital Meter ATS Launcher\obj\Debug\net6.0-windows\Hospital Meter ATS Launcher.dll
+C:\! Projects\Hospital Meter ATS\Hospital Meter ATS Launcher\obj\Debug\net6.0-windows\refint\Hospital Meter ATS Launcher.dll
+C:\! Projects\Hospital Meter ATS\Hospital Meter ATS Launcher\obj\Debug\net6.0-windows\Hospital Meter ATS Launcher.pdb
+C:\! Projects\Hospital Meter ATS\Hospital Meter ATS Launcher\obj\Debug\net6.0-windows\Hospital Meter ATS Launcher.genruntimeconfig.cache
+C:\! Projects\Hospital Meter ATS\Hospital Meter ATS Launcher\obj\Debug\net6.0-windows\ref\Hospital Meter ATS Launcher.dll
+C:\! Projects\Hospital Meter\Hospital Meter ATS Launcher\bin\Debug\net6.0-windows\Hospital Meter ATS Launcher.exe
+C:\! Projects\Hospital Meter\Hospital Meter ATS Launcher\bin\Debug\net6.0-windows\Hospital Meter ATS Launcher.deps.json
+C:\! Projects\Hospital Meter\Hospital Meter ATS Launcher\bin\Debug\net6.0-windows\Hospital Meter ATS Launcher.runtimeconfig.json
+C:\! Projects\Hospital Meter\Hospital Meter ATS Launcher\bin\Debug\net6.0-windows\Hospital Meter ATS Launcher.dll
+C:\! Projects\Hospital Meter\Hospital Meter ATS Launcher\bin\Debug\net6.0-windows\Hospital Meter ATS Launcher.pdb
+C:\! Projects\Hospital Meter\Hospital Meter ATS Launcher\obj\Debug\net6.0-windows\Hospital Meter ATS Launcher.csproj.AssemblyReference.cache
+C:\! Projects\Hospital Meter\Hospital Meter ATS Launcher\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\! Projects\Hospital Meter\Hospital Meter ATS Launcher\obj\Debug\net6.0-windows\App.g.cs
+C:\! Projects\Hospital Meter\Hospital Meter ATS Launcher\obj\Debug\net6.0-windows\Hospital Meter ATS Launcher_Content.g.cs
+C:\! Projects\Hospital Meter\Hospital Meter ATS Launcher\obj\Debug\net6.0-windows\Hospital Meter ATS Launcher_MarkupCompile.cache
+C:\! Projects\Hospital Meter\Hospital Meter ATS Launcher\obj\Debug\net6.0-windows\Hospital Meter ATS Launcher_MarkupCompile.lref
+C:\! Projects\Hospital Meter\Hospital Meter ATS Launcher\obj\Debug\net6.0-windows\MainWindow.baml
+C:\! Projects\Hospital Meter\Hospital Meter ATS Launcher\obj\Debug\net6.0-windows\Hospital Meter ATS Launcher.g.resources
+C:\! Projects\Hospital Meter\Hospital Meter ATS Launcher\obj\Debug\net6.0-windows\Hospital Meter ATS Launcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\! Projects\Hospital Meter\Hospital Meter ATS Launcher\obj\Debug\net6.0-windows\Hospital Meter ATS Launcher.AssemblyInfoInputs.cache
+C:\! Projects\Hospital Meter\Hospital Meter ATS Launcher\obj\Debug\net6.0-windows\Hospital Meter ATS Launcher.AssemblyInfo.cs
+C:\! Projects\Hospital Meter\Hospital Meter ATS Launcher\obj\Debug\net6.0-windows\Hospital Meter ATS Launcher.csproj.CoreCompileInputs.cache
+C:\! Projects\Hospital Meter\Hospital Meter ATS Launcher\obj\Debug\net6.0-windows\Hospital Meter ATS Launcher.dll
+C:\! Projects\Hospital Meter\Hospital Meter ATS Launcher\obj\Debug\net6.0-windows\refint\Hospital Meter ATS Launcher.dll
+C:\! Projects\Hospital Meter\Hospital Meter ATS Launcher\obj\Debug\net6.0-windows\Hospital Meter ATS Launcher.pdb
+C:\! Projects\Hospital Meter\Hospital Meter ATS Launcher\obj\Debug\net6.0-windows\Hospital Meter ATS Launcher.genruntimeconfig.cache
+C:\! Projects\Hospital Meter\Hospital Meter ATS Launcher\obj\Debug\net6.0-windows\ref\Hospital Meter ATS Launcher.dll
