@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Diagnostics;
 using System.IO;
+using System.Threading;
 using System.Windows;
 using System.Windows.Media.Imaging;
 
@@ -13,7 +14,7 @@ namespace Hospital_Meter_ATS_Launcher
     {
         // Version based on number of GitHub commits.
         const string Version = "V0.2";
-        const string BuildDate = "10/17/2023";
+        const string BuildDate = "10/23/2023";
         const string Author = "Anthony Meng-Lim";
         public static Process processInfo = null;
 
@@ -21,6 +22,7 @@ namespace Hospital_Meter_ATS_Launcher
         {
             InitializeComponent();
             Title = "Hospital Meter ATS Launcher " + Version;
+
         }
 
         private void menuExit_Click(object sender, RoutedEventArgs e)
@@ -38,12 +40,22 @@ namespace Hospital_Meter_ATS_Launcher
         }
         private void HospitalMeterATS_Click(object sender, RoutedEventArgs e)
         {
-            string hospitalMeterPath = "C:\\! Projects\\Hospital Meter\\Hospital Meter ATS\\bin\\Debug\\net7.0-windows10.0.22000.0\\Hospital Meter ATS.exe";
+            string hospitalMeterPath = @"C:\Users\amenglim\Desktop\Hospital Meter ATS - Shortcut.lnk";
 
             if (File.Exists(hospitalMeterPath))
             {
-                Process.Start(hospitalMeterPath);
-                App.Current.Shutdown();
+                Process meterconfig = new()
+                {
+                    // This opens Hospital Meter ATS app no matter which version the PC has.
+                    StartInfo = new ProcessStartInfo(hospitalMeterPath)
+                    {
+                        UseShellExecute = true,
+                        RedirectStandardOutput = false,
+                        CreateNoWindow = false
+                    }
+                };
+                Application.Current.Shutdown();
+                meterconfig.Start();
             }
             else
             {
@@ -67,8 +79,9 @@ namespace Hospital_Meter_ATS_Launcher
 
         private void meterConfigurationUtility_Click(object sender, RoutedEventArgs e)
         {
-            string meterConfigPath = @"C:\Users\amenglim\Desktop\Meter Attributes Editor - Shortcut.lnk";
+            string meterConfigPath = @"C:\Users\amenglim\Desktop\Meter Attributes Editor.lnk";
             string path = @"C:\Users\amenglim\Desktop\Meter Attributes Editor - Shortcut.lnk";
+
             if (File.Exists(meterConfigPath))
             {
                 Process meterconfig = new()

@@ -27,14 +27,14 @@
             </MenuItem>
         </Menu>
 
-        
+
         <Border Grid.Row="1" BorderBrush="Black" BorderThickness="0,1,0,2">
             <Rectangle Fill="#E9E9E9" />
         </Border>
 
         <DockPanel Grid.Row="1" HorizontalAlignment="Center">
 
-            <Image x:Name="NovaBioLogo" Width="150" Margin="15"/>
+            <Image x:Name="NovaBioLogo" Width="150" Margin="15" Source="Resources/Images/nova-biomedical-logo.bmp"/>
             <StackPanel VerticalAlignment="Center">
                 <TextBlock FontSize="25" Margin="5" FontWeight="Bold">
                     Hospital Meter ATS Launcher
@@ -45,26 +45,28 @@
             </StackPanel>
 
         </DockPanel>
-        
+
         <Grid Grid.Row="2">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition/>
                 <ColumnDefinition/>
                 <ColumnDefinition/>
-            </Grid.ColumnDefinitions>            
+            </Grid.ColumnDefinitions>
 
             <StackPanel VerticalAlignment="Center" Grid.Column="0">
-                <Button BorderThickness="1.5" BorderBrush="Black" Width="200" Height="200" Margin="5" Click="HospitalMeterATS_Click">
+                <Button BorderThickness="1.5" BorderBrush="Black" Width="200" Height="200" Margin="5" 
+                        Click="HospitalMeterATS_Click" ToolTip="Final System Test for a fully assembled Hospital Meter">
                     <Image x:Name="HospitalMeterLogo" Source="Resources/Images/gen2glumeter.png" Width="150"/>
                 </Button>
 
                 <TextBlock FontSize="25" FontWeight="Bold" HorizontalAlignment="Center" Margin="5">
-                Hospital Meter ATS
+                    Hospital Meter ATS
                 </TextBlock>
             </StackPanel>
 
             <StackPanel VerticalAlignment="Center" Grid.Column="1">
-                <Button BorderThickness="1.5" BorderBrush="Black" Width="200" Height="200" Margin="5" x:Name="MochaTN5250" Click="MochaTN5250_Click">
+                <Button BorderThickness="1.5" BorderBrush="Black" Width="200" Height="200" Margin="5" x:Name="MochaTN5250" 
+                        Click="MochaTN5250_Click" ToolTip="Terminal emulator which provides access to an AS/400">
                     <Image x:Name="MochaLogo" Source="Resources/Images/MochaTN5250.png" Width="300" HorizontalAlignment="Center"/>
                 </Button>
 
@@ -74,12 +76,13 @@
             </StackPanel>
 
             <StackPanel VerticalAlignment="Center" Grid.Column="2">
-                <Button BorderThickness="1.5" BorderBrush="Black" Width="200" Height="200" Margin="5" Click="meterConfigurationUtility_Click">
-                    <Image x:Name="MeterConfigurationUtility" Source="Resources/Images/meter-attributes-editor.ico" Width="125"/>
+                <Button BorderThickness="1.5" BorderBrush="Black" Width="200" Height="200" Margin="5" 
+                        Click="meterConfigurationUtility_Click" ToolTip="Add, edit, and remove XML entries located in the configurations XML file: MeterConfigurations.xml">
+                    <Image x:Name="meterAttributesEditor" Source="Resources/Images/meter-attributes-editor.ico" Width="125"/>
                 </Button>
 
                 <TextBlock FontSize="25" FontWeight="Bold" HorizontalAlignment="Center" Margin="5">
-                Meter Configuration Utility
+                Meter Attributes Editor
                 </TextBlock>
             </StackPanel>
 

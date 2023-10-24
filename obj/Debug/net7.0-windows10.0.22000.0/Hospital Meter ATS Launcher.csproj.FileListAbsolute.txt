@@ -1,3 +1,13 @@
+C:\! Projects\Hospital Meter\Hospital Meter ATS Launcher\obj\Debug\net7.0-windows10.0.22000.0\Hospital Meter ATS Launcher.csproj.AssemblyReference.cache
+C:\! Projects\Hospital Meter\Hospital Meter ATS Launcher\obj\Debug\net7.0-windows10.0.22000.0\App.g.cs
+C:\! Projects\Hospital Meter\Hospital Meter ATS Launcher\obj\Debug\net7.0-windows10.0.22000.0\Hospital Meter ATS Launcher_Content.g.cs
+C:\! Projects\Hospital Meter\Hospital Meter ATS Launcher\obj\Debug\net7.0-windows10.0.22000.0\Hospital Meter ATS Launcher_MarkupCompile.cache
+C:\! Projects\Hospital Meter\Hospital Meter ATS Launcher\bin\Debug\net7.0-windows10.0.22000.0\Resources\Images\gen2glumeter.png
+C:\! Projects\Hospital Meter\Hospital Meter ATS Launcher\bin\Debug\net7.0-windows10.0.22000.0\Resources\Images\meter-attributes-editor.ico
+C:\! Projects\Hospital Meter\Hospital Meter ATS Launcher\bin\Debug\net7.0-windows10.0.22000.0\Resources\Images\meterConfigLogo.png
+C:\! Projects\Hospital Meter\Hospital Meter ATS Launcher\bin\Debug\net7.0-windows10.0.22000.0\Resources\Images\MochaTN5250.png
+C:\! Projects\Hospital Meter\Hospital Meter ATS Launcher\bin\Debug\net7.0-windows10.0.22000.0\Resources\Images\nova-biomedical-logo.bmp
+C:\! Projects\Hospital Meter\Hospital Meter ATS Launcher\bin\Debug\net7.0-windows10.0.22000.0\Resources\Images\NovaBiomedicalIcon.ico
 C:\! Projects\Hospital Meter\Hospital Meter ATS Launcher\bin\Debug\net7.0-windows10.0.22000.0\Hospital Meter ATS Launcher.exe
 C:\! Projects\Hospital Meter\Hospital Meter ATS Launcher\bin\Debug\net7.0-windows10.0.22000.0\Hospital Meter ATS Launcher.deps.json
 C:\! Projects\Hospital Meter\Hospital Meter ATS Launcher\bin\Debug\net7.0-windows10.0.22000.0\Hospital Meter ATS Launcher.runtimeconfig.json
@@ -5,10 +15,7 @@ C:\! Projects\Hospital Meter\Hospital Meter ATS Launcher\bin\Debug\net7.0-window
 C:\! Projects\Hospital Meter\Hospital Meter ATS Launcher\bin\Debug\net7.0-windows10.0.22000.0\Hospital Meter ATS Launcher.pdb
 C:\! Projects\Hospital Meter\Hospital Meter ATS Launcher\bin\Debug\net7.0-windows10.0.22000.0\Microsoft.Windows.SDK.NET.dll
 C:\! Projects\Hospital Meter\Hospital Meter ATS Launcher\bin\Debug\net7.0-windows10.0.22000.0\WinRT.Runtime.dll
-C:\! Projects\Hospital Meter\Hospital Meter ATS Launcher\obj\Debug\net7.0-windows10.0.22000.0\Hospital Meter ATS Launcher.csproj.AssemblyReference.cache
 C:\! Projects\Hospital Meter\Hospital Meter ATS Launcher\obj\Debug\net7.0-windows10.0.22000.0\MainWindow.g.cs
-C:\! Projects\Hospital Meter\Hospital Meter ATS Launcher\obj\Debug\net7.0-windows10.0.22000.0\App.g.cs
-C:\! Projects\Hospital Meter\Hospital Meter ATS Launcher\obj\Debug\net7.0-windows10.0.22000.0\Hospital Meter ATS Launcher_MarkupCompile.cache
 C:\! Projects\Hospital Meter\Hospital Meter ATS Launcher\obj\Debug\net7.0-windows10.0.22000.0\Hospital Meter ATS Launcher_MarkupCompile.lref
 C:\! Projects\Hospital Meter\Hospital Meter ATS Launcher\obj\Debug\net7.0-windows10.0.22000.0\MainWindow.baml
 C:\! Projects\Hospital Meter\Hospital Meter ATS Launcher\obj\Debug\net7.0-windows10.0.22000.0\Hospital Meter ATS Launcher.g.resources
@@ -22,10 +29,3 @@ C:\! Projects\Hospital Meter\Hospital Meter ATS Launcher\obj\Debug\net7.0-window
 C:\! Projects\Hospital Meter\Hospital Meter ATS Launcher\obj\Debug\net7.0-windows10.0.22000.0\Hospital Meter ATS Launcher.pdb
 C:\! Projects\Hospital Meter\Hospital Meter ATS Launcher\obj\Debug\net7.0-windows10.0.22000.0\Hospital Meter ATS Launcher.genruntimeconfig.cache
 C:\! Projects\Hospital Meter\Hospital Meter ATS Launcher\obj\Debug\net7.0-windows10.0.22000.0\ref\Hospital Meter ATS Launcher.dll
-C:\! Projects\Hospital Meter\Hospital Meter ATS Launcher\obj\Debug\net7.0-windows10.0.22000.0\Hospital Meter ATS Launcher_Content.g.cs
-C:\! Projects\Hospital Meter\Hospital Meter ATS Launcher\bin\Debug\net7.0-windows10.0.22000.0\Resources\Images\gen2glumeter.png
-C:\! Projects\Hospital Meter\Hospital Meter ATS Launcher\bin\Debug\net7.0-windows10.0.22000.0\Resources\Images\meter-attributes-editor.ico
-C:\! Projects\Hospital Meter\Hospital Meter ATS Launcher\bin\Debug\net7.0-windows10.0.22000.0\Resources\Images\meterConfigLogo.png
-C:\! Projects\Hospital Meter\Hospital Meter ATS Launcher\bin\Debug\net7.0-windows10.0.22000.0\Resources\Images\MochaTN5250.png
-C:\! Projects\Hospital Meter\Hospital Meter ATS Launcher\bin\Debug\net7.0-windows10.0.22000.0\Resources\Images\nova-biomedical-logo.bmp
-C:\! Projects\Hospital Meter\Hospital Meter ATS Launcher\bin\Debug\net7.0-windows10.0.22000.0\Resources\Images\NovaBiomedicalIcon.ico
