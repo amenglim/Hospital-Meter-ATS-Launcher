@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Hospital_Meter_ATS_Launcher"
         mc:Ignorable="d"
-        Height="680" Width="1080" MinHeight="680"
+        Height="680" Width="1080" MinHeight="800"
         WindowStartupLocation="CenterScreen">
 
     <Grid Background="White">
@@ -47,8 +47,11 @@
         </DockPanel>
 
         <Grid Grid.Row="2">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
             <Grid.ColumnDefinitions>
-                <ColumnDefinition/>
                 <ColumnDefinition/>
                 <ColumnDefinition/>
             </Grid.ColumnDefinitions>
@@ -75,7 +78,7 @@
                 </TextBlock>
             </StackPanel>
 
-            <StackPanel VerticalAlignment="Center" Grid.Column="2">
+            <StackPanel VerticalAlignment="Center" Grid.Column="0" Grid.Row="1">
                 <Button BorderThickness="1.5" BorderBrush="Black" Width="200" Height="200" Margin="5" Background="LightGoldenrodYellow"
                         Click="meterConfigurationUtility_Click" ToolTip="Add, edit, and remove XML entries located in the configurations XML file: MeterConfigurations.xml">
                     <Image x:Name="meterAttributesEditor" Source="Resources/Images/meter-attributes-editor.ico" Width="125"/>
@@ -85,6 +88,19 @@
                 Meter Attributes Editor
                 </TextBlock>
             </StackPanel>
+
+
+            <StackPanel VerticalAlignment="Center" Grid.Column="1" Grid.Row="1">
+                <Button BorderThickness="1.5" BorderBrush="Black" Width="200" Height="200" Margin="5" Background="#FFFFDEFF"
+                        Click="HospitalMeterDockATS_Click"  ToolTip="This is the final system test for a fully assembled Hospital Meter Dock">
+                    <Image x:Name="hospitalMeterDockATS" Source="Resources/Images/hospital-meter-dock-and-meter.png" Width="200"/>
+                </Button>
+
+                <TextBlock FontSize="25" FontWeight="Bold" HorizontalAlignment="Center" Margin="5">
+                Hospital Meter Dock ATS
+                </TextBlock>
+            </StackPanel>
+
 
         </Grid>
 

@@ -9,10 +9,13 @@
 //------------------------------------------------------------------------------
 
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("resources/images/gen2glumeter.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("resources/images/hospital-meter-dock-and-meter.png")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("resources/images/meter-attributes-editor.ico")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("resources/images/meterconfiglogo.png")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("resources/images/mochatn5250.png")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("resources/images/nova-biomedical-logo.bmp")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("resources/images/novabiomedicalicon.ico")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("resources/svn/builddate.txt")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("resources/svn/svninfo.cs.tpl")]
 
 
