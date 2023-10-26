@@ -1,0 +1,109 @@
+﻿<Window x:Class="Hospital_Meter_ATS_Launcher.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Hospital_Meter_ATS_Launcher"
+        mc:Ignorable="d"
+        Height="680" Width="1080" MinHeight="800"
+        WindowStartupLocation="CenterScreen">
+
+    <Grid Background="White">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="100"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Menu Grid.Row="0">
+            <MenuItem Header="_File">
+                <MenuItem x:Name="menuExit" Header="_Exit" Click="menuExit_Click"/>
+            </MenuItem>
+            <MenuItem Header="_Help">
+                <MenuItem x:Name="menuVersion" Header="_Version" Click="menuVersion_Click"/>
+            </MenuItem>
+        </Menu>
+
+
+        <Border Grid.Row="1" BorderBrush="Black" BorderThickness="0,1,0,2">
+            <Rectangle Fill="#E9E9E9" />
+        </Border>
+
+        <DockPanel Grid.Row="1" HorizontalAlignment="Center">
+
+            <Image x:Name="NovaBioLogo" Width="150" Margin="15" Source="Resources/Images/nova-biomedical-logo.bmp"/>
+            <StackPanel VerticalAlignment="Center">
+                <TextBlock FontSize="25" Margin="5" FontWeight="Bold">
+                    Hospital Meter ATS Launcher
+                </TextBlock>
+                <TextBlock Margin="5" FontSize="20">
+                    To begin, click on the following buttons below to launch the software.
+                </TextBlock>
+            </StackPanel>
+
+        </DockPanel>
+
+        <Grid Grid.Row="2">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <StackPanel VerticalAlignment="Center" Grid.Column="0">
+                <Button BorderThickness="1.5" BorderBrush="Black" Width="200" Height="200" Margin="5" Background="#FFDBF5FD"
+                        Click="HospitalMeterATS_Click" ToolTip="Final System Test for a fully assembled Hospital Meter">
+                    <Image x:Name="HospitalMeterLogo" Source="Resources/Images/gen2glumeter.png" Width="150"/>
+                </Button>
+
+                <TextBlock FontSize="25" FontWeight="Bold" HorizontalAlignment="Center" Margin="5">
+                    Hospital Meter ATS
+                </TextBlock>
+            </StackPanel>
+
+            <StackPanel VerticalAlignment="Center" Grid.Column="1">
+                <Button BorderThickness="1.5" BorderBrush="Black" Width="200" Height="200" Margin="5" x:Name="MochaTN5250" Background="#FFCDFFE7" 
+                        Click="MochaTN5250_Click" ToolTip="Terminal emulator which provides access to an AS/400">
+                    <Image x:Name="MochaLogo" Source="Resources/Images/MochaTN5250.png" Width="300" HorizontalAlignment="Center"/>
+                </Button>
+
+                <TextBlock FontSize="25" FontWeight="Bold" HorizontalAlignment="Center" Margin="5">
+                Mocha TN5250
+                </TextBlock>
+            </StackPanel>
+
+            <StackPanel VerticalAlignment="Center" Grid.Column="0" Grid.Row="1">
+                <Button BorderThickness="1.5" BorderBrush="Black" Width="200" Height="200" Margin="5" Background="LightGoldenrodYellow"
+                        Click="meterConfigurationUtility_Click" ToolTip="Add, edit, and remove XML entries located in the configurations XML file: MeterConfigurations.xml">
+                    <Image x:Name="meterAttributesEditor" Source="Resources/Images/meter-attributes-editor.ico" Width="125"/>
+                </Button>
+
+                <TextBlock FontSize="25" FontWeight="Bold" HorizontalAlignment="Center" Margin="5">
+                Meter Attributes Editor
+                </TextBlock>
+            </StackPanel>
+
+
+            <StackPanel VerticalAlignment="Center" Grid.Column="1" Grid.Row="1">
+                <Button BorderThickness="1.5" BorderBrush="Black" Width="200" Height="200" Margin="5" Background="#FFFFDEFF"
+                        Click="HospitalMeterDockATS_Click"  ToolTip="This is the final system test for a fully assembled Hospital Meter Dock">
+                    <Image x:Name="hospitalMeterDockATS" Source="Resources/Images/hospital-meter-dock-and-meter.png" Width="200"/>
+                </Button>
+
+                <TextBlock FontSize="25" FontWeight="Bold" HorizontalAlignment="Center" Margin="5">
+                Hospital Meter Dock ATS
+                </TextBlock>
+            </StackPanel>
+
+
+        </Grid>
+
+
+    </Grid>
+</Window>

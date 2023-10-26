@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WZg8RDyhH5akAIozzfjxIf6yZjy09UzhBwZygTnJvb4v6HuyKVGWL215jv76caknTbWdejggY6RaeyXhq082TA==",
+  "success": true,
+  "projectFilePath": "C:\\! Projects\\Hospital Meter\\Hospital Meter ATS Launcher\\Hospital Meter ATS Launcher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amenglim\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22000.29\\microsoft.windows.sdk.net.ref.10.0.22000.29.nupkg.sha512"
+  ],
+  "logs": []
+}
